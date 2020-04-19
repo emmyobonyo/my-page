@@ -1,0 +1,13 @@
+body {
+    background-color: #EEEEEE;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+p.header {
+    margin-top: -15px;
+}
